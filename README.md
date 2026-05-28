@@ -80,25 +80,25 @@ The following dashboard visuals were built in Excel from the SQL analysis output
 
 ### Default Rate Heat Map: Credit Tier × LTV Band
 
-![Default Rate Heat Map](images/chart_03_heatmap_credit_ltv.png)
+![Default Rate Heat Map](Images/chart_03_heatmap_credit_ltv.png)
 
 The clearest single view of the portfolio's risk structure. Default rates climb along both axes — lower credit tiers *and* higher LTV bands each raise risk — and the two factors compound. The worst segment (Deep Subprime, 80–99.99% LTV) defaults at 31.9%, more than 3x the safest segment (Prime, 0–59.99% LTV) at 9.6%.
 
 ### Default Rate by Risk Tier
 
-![Default Rate by Risk Tier](images/chart_01_default_by_tier.png)
+![Default Rate by Risk Tier](Images/chart_01_default_by_tier.png)
 
 The four-tier risk segmentation produces a clean, monotonic gradient — from 13.1% (Tier 0) to 29.0% (Tier 3) — confirming the tiers are well-separated and decision-useful.
 
 ### Volume Share vs. Default Share by Tier
 
-![Volume Share vs Default Share](images/chart_02_volume_vs_default_share.png)
+![Volume Share vs Default Share](Images/chart_02_volume_vs_default_share.png)
 
 The core portfolio problem in one chart: Tier 3 makes up 28.8% of loan volume but generates 38.5% of all defaults — a loss density of 1.33x. This concentration is what makes "decline Tier 3" the most efficient policy lever.
 
 ### Default Rate by Bureau Inquiries
 
-![Default Rate by Inquiries](images/chart_04_default_by_inquiries.png)
+![Default Rate by Inquiries](Images/chart_04_default_by_inquiries.png)
 
 Across nearly every credit tier, default rates rise with each additional recent bureau inquiry — the classic "credit hungry" signal. The effect is sharpest in the No Credit History and Derogatory segments, where 3+ inquiries push default rates above 39%.
 
