@@ -178,15 +178,15 @@ This represents the most efficient policy tradeoff — for every loan declined, 
 auto-loan-default-analysis/
 |
 +-- README.md                          <- This file
-+-- sql/
++-- SQL/
 |   +-- 01_segment_analysis.sql        <- Main segmentation query with risk tiers
 |   +-- 02_policy_simulation.sql       <- Four policy scenario simulations
 |   +-- 03_risk_tier_summary.sql       <- Portfolio breakdown by risk tier
-+-- dashboards/
++-- Dashboards/
 |   +-- Dashboard.xlsx                  <- Excel dashboard, pivot tables, and charts
-+-- data/
++-- Data/
 |   +-- README.md                       <- Dataset download instructions
-+-- images/
++-- Images/
     +-- chart_01_default_by_tier.png         <- Default rate by risk tier
     +-- chart_02_volume_vs_default_share.png <- Volume vs. default share
     +-- chart_03_heatmap_credit_ltv.png      <- Credit tier x LTV heat map
