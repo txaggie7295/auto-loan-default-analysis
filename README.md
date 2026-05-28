@@ -54,7 +54,7 @@ Loans were segmented across three dimensions:
 | Factor | Buckets | Rationale |
 |--------|---------|-----------|
 | Credit Score | Prime (700-900), Near-Prime (650-699), Subprime (600-649), Deep Subprime (300-599), Derogatory (001-100), No Credit History (000) | Primary default predictor |
-| LTV Band | 0-59.99%, 60-69.99%, 70-74.99%, 75-79.99%, 80-84.99% | Secondary risk driver |
+| LTV Band | 0-59.99%, 60-69.99%, 70-74.99%, 75-79.99%, 80-99.99% | Secondary risk driver |
 | Bureau Inquiries | 0, 1, 2, 3+ | Credit-seeking behavior signal |
 
 Segments with fewer than 100 loans were excluded as statistically unreliable.
