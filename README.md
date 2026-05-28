@@ -81,7 +81,7 @@ The lowest-risk segment (Prime borrowers, low LTV, no inquiries) defaults at **8
 Across all LTV and inquiry combinations, higher credit scores consistently produce lower default rates. The gradient is clean and monotonic — every step down in credit tier meaningfully increases default risk.
 
 ### 3. LTV Compounds Credit Score Risk
-High LTV loans (80-84.99%) default at nearly **1.7x the rate** of low LTV loans (0-59.99%) within the same credit tier. The combination of low credit score AND high LTV produces the most concentrated default exposure in the portfolio.
+High LTV loans (80-99.99%) default at nearly **1.7x the rate** of low LTV loans (0-59.99%) within the same credit tier. The combination of low credit score AND high LTV produces the most concentrated default exposure in the portfolio.
 
 ### 4. Bureau Inquiries Add a Third Risk Signal
 Borrowers with 3+ recent bureau inquiries show materially higher default rates than borrowers with 0 inquiries — consistent with the "credit hungry" signal that experienced lenders watch closely. This effect is most pronounced in the already-risky deep subprime and no-credit-history segments.
