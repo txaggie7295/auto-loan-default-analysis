@@ -80,7 +80,7 @@ The following dashboard visuals were built in Excel from the SQL analysis output
 
 ### Default Rate Heat Map: Credit Tier × LTV Band
 
-![Default Rate Heat Map](Images/chart_03_heatmap_credit_ltv.png)
+![Default Rate Heat Map](Images/chart_03_heatmap_credit_ltv_1.png)
 
 The clearest single view of the portfolio's risk structure. Default rates climb along both axes — lower credit tiers *and* higher LTV bands each raise risk — and the two factors compound. The worst segment (Deep Subprime, 80–99.99% LTV) defaults at 31.9%, more than 3x the safest segment (Prime, 0–59.99% LTV) at 9.6%.
 
